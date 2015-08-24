@@ -1,0 +1,30 @@
+{
+  "name": "picnic",
+  "version": "0.1.0",
+  "description": "image gathering tool",
+  "main": "dest/js/app.min.js",
+  "dependencies": {
+    "electron-prebuilt": "^0.31.0"
+  },
+  "author": "YOwatari",
+  "license": "",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-tsd": "0.0.4",
+    "gulp-typescript": "^2.8.1",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.5",
+    "path": "^0.11.14",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.2",
+    "tsd": "^0.6.3",
+    "typescript": "^1.5.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

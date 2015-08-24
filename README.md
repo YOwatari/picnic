@@ -1,2 +1,3 @@
 # picnic
-image gathering tool
+
+i try to use electron by typescript
