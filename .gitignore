@@ -28,5 +28,5 @@ node_modules
 
 # for this project
 dest/js/*.js
-src/js/**/.js
+src/js/*/.js
 src/typings

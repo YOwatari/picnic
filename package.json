@@ -7,11 +7,14 @@
     "electron-prebuilt": "^0.31.0"
   },
   "author": "YOwatari",
-  "license": "",
+  "license": "MIT",
+  "repository": "git@github.com:YOwatari/picnic.git",
   "devDependencies": {
     "browserify": "^11.0.1",
+    "electron-packager": "^5.0.2",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.2.1",
+    "gulp-electron": "0.0.9",
     "gulp-jsmin": "^0.1.5",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^1.5.2",
